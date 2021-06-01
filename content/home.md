@@ -9,5 +9,6 @@ cats:
   - description: jakshdk 3
     name: Grumpy cat (Tardar Sauce)
 ---
+![](img/cebit-e1576852483929-768x442.jpg)
 
 Testing 123
